@@ -1,0 +1,8 @@
+c:\users\mercan1\documents\visual studio 2015\Projects\Karikatur\Karikatur\bin\Debug\Karikatur.exe
+c:\users\mercan1\documents\visual studio 2015\Projects\Karikatur\Karikatur\bin\Debug\Karikatur.pdb
+c:\users\mercan1\documents\visual studio 2015\Projects\Karikatur\Karikatur\obj\Debug\Karikatur.csprojResolveAssemblyReference.cache
+c:\users\mercan1\documents\visual studio 2015\Projects\Karikatur\Karikatur\obj\Debug\Karikatur.Form1.resources
+c:\users\mercan1\documents\visual studio 2015\Projects\Karikatur\Karikatur\obj\Debug\Karikatur.Properties.Resources.resources
+c:\users\mercan1\documents\visual studio 2015\Projects\Karikatur\Karikatur\obj\Debug\Karikatur.csproj.GenerateResource.Cache
+c:\users\mercan1\documents\visual studio 2015\Projects\Karikatur\Karikatur\obj\Debug\Karikatur.exe
+c:\users\mercan1\documents\visual studio 2015\Projects\Karikatur\Karikatur\obj\Debug\Karikatur.pdb
